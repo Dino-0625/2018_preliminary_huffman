@@ -1,0 +1,319 @@
+# Compile of LBP.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture
+# vsim -gui work.testfixture 
+# Start time: 21:28:39 on Dec 23,2023
+# Loading work.testfixture
+# Loading work.LBP
+# Loading work.lbp_mem
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture File: C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v Line: 52
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture File: C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v Line: 53
+# Compile of LBP.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture
+# End time: 21:31:03 on Dec 23,2023, Elapsed time: 0:02:24
+# Errors: 0, Warnings: 5
+# vsim -gui work.testfixture 
+# Start time: 21:31:03 on Dec 23,2023
+# Loading work.testfixture
+# Loading work.LBP
+# Loading work.lbp_mem
+run -all
+# -----------------------------------------------------
+# 
+# START!!! Simulation Start .....
+# 
+# -----------------------------------------------------
+# 
+# Output pixel           0 are wrong!
+# Output Pixel: 0 ~           0 are wrong ! The wrong pixel reached a total of           1 or more ! 
+# 
+# Output pixel           1 are wrong!
+# Output pixel           2 are wrong!
+# Output pixel           3 are wrong!
+# Output pixel           4 are wrong!
+# Output pixel           5 are wrong!
+# Output pixel           6 are wrong!
+# Output pixel           7 are wrong!
+# Output pixel           8 are wrong!
+# Output pixel          10 are wrong!
+# Find the wrong pixel reached a total of more than 10 !, Please check the code .....
+# 
+# Output Pixel: 0 ~        1000 are wrong ! The wrong pixel reached a total of        1000 or more ! 
+# 
+# Output Pixel: 0 ~        2000 are wrong ! The wrong pixel reached a total of        2000 or more ! 
+# 
+# Output Pixel: 0 ~        3000 are wrong ! The wrong pixel reached a total of        3000 or more ! 
+# 
+# Output Pixel: 0 ~        4000 are wrong ! The wrong pixel reached a total of        4000 or more ! 
+# 
+# Output Pixel: 0 ~        5000 are wrong ! The wrong pixel reached a total of        5000 or more ! 
+# 
+# Output Pixel: 0 ~        6000 are wrong ! The wrong pixel reached a total of        6000 or more ! 
+# 
+# Output Pixel: 0 ~        7000 are wrong ! The wrong pixel reached a total of        7000 or more ! 
+# 
+# Output Pixel: 0 ~        8000 are wrong ! The wrong pixel reached a total of        8000 or more ! 
+# 
+# Output Pixel: 0 ~        9000 are wrong ! The wrong pixel reached a total of        9000 or more ! 
+# 
+# Output Pixel: 0 ~       10000 are wrong ! The wrong pixel reached a total of       10000 or more ! 
+# 
+# Output Pixel: 0 ~       11000 are wrong ! The wrong pixel reached a total of       11000 or more ! 
+# 
+# Output Pixel: 0 ~       12000 are wrong ! The wrong pixel reached a total of       12000 or more ! 
+# 
+# Output Pixel: 0 ~       13000 are wrong ! The wrong pixel reached a total of       13000 or more ! 
+# 
+# Output Pixel: 0 ~       14000 are wrong ! The wrong pixel reached a total of       14000 or more ! 
+# 
+# Output Pixel: 0 ~       15000 are wrong ! The wrong pixel reached a total of       15000 or more ! 
+# 
+# Output Pixel: 0 ~       16000 are wrong ! The wrong pixel reached a total of       16000 or more ! 
+# 
+# Output Pixel: 0 ~       16383 are wrong ! The wrong pixel reached a total of       16383 or more ! 
+# 
+# -----------------------------------------------------
+# 
+# There are       16383 errors!
+# 
+# -----------------------------------------------------
+# 
+# ** Note: $finish    : C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v(128)
+#    Time: 2381475 ns  Iteration: 0  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v line 128
+add wave -position end  sim:/testfixture/exp_mem
+add wave -position end  sim:/testfixture/gray_mem
+restart
+run -all
+# GetModuleFileName: 找不到指定的模組。
+# 
+# 
+# -----------------------------------------------------
+# 
+# START!!! Simulation Start .....
+# 
+# -----------------------------------------------------
+# 
+# Output pixel           0 are wrong!
+# Output Pixel: 0 ~           0 are wrong ! The wrong pixel reached a total of           1 or more ! 
+# 
+# Output pixel           1 are wrong!
+# Output pixel           2 are wrong!
+# Output pixel           3 are wrong!
+# Output pixel           4 are wrong!
+# Output pixel           5 are wrong!
+# Output pixel           6 are wrong!
+# Output pixel           7 are wrong!
+# Output pixel           8 are wrong!
+# Output pixel          10 are wrong!
+# Find the wrong pixel reached a total of more than 10 !, Please check the code .....
+# 
+# Output Pixel: 0 ~        1000 are wrong ! The wrong pixel reached a total of        1000 or more ! 
+# 
+# Output Pixel: 0 ~        2000 are wrong ! The wrong pixel reached a total of        2000 or more ! 
+# 
+# Output Pixel: 0 ~        3000 are wrong ! The wrong pixel reached a total of        3000 or more ! 
+# 
+# Output Pixel: 0 ~        4000 are wrong ! The wrong pixel reached a total of        4000 or more ! 
+# 
+# Output Pixel: 0 ~        5000 are wrong ! The wrong pixel reached a total of        5000 or more ! 
+# 
+# Output Pixel: 0 ~        6000 are wrong ! The wrong pixel reached a total of        6000 or more ! 
+# 
+# Output Pixel: 0 ~        7000 are wrong ! The wrong pixel reached a total of        7000 or more ! 
+# 
+# Output Pixel: 0 ~        8000 are wrong ! The wrong pixel reached a total of        8000 or more ! 
+# 
+# Output Pixel: 0 ~        9000 are wrong ! The wrong pixel reached a total of        9000 or more ! 
+# 
+# Output Pixel: 0 ~       10000 are wrong ! The wrong pixel reached a total of       10000 or more ! 
+# 
+# Output Pixel: 0 ~       11000 are wrong ! The wrong pixel reached a total of       11000 or more ! 
+# 
+# Output Pixel: 0 ~       12000 are wrong ! The wrong pixel reached a total of       12000 or more ! 
+# 
+# Output Pixel: 0 ~       13000 are wrong ! The wrong pixel reached a total of       13000 or more ! 
+# 
+# Output Pixel: 0 ~       14000 are wrong ! The wrong pixel reached a total of       14000 or more ! 
+# 
+# Output Pixel: 0 ~       15000 are wrong ! The wrong pixel reached a total of       15000 or more ! 
+# 
+# Output Pixel: 0 ~       16000 are wrong ! The wrong pixel reached a total of       16000 or more ! 
+# 
+# Output Pixel: 0 ~       16383 are wrong ! The wrong pixel reached a total of       16383 or more ! 
+# 
+# -----------------------------------------------------
+# 
+# There are       16383 errors!
+# 
+# -----------------------------------------------------
+# 
+# ** Note: $finish    : C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v(128)
+#    Time: 2381475 ns  Iteration: 0  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v line 128
+# Compile of LBP.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture
+# End time: 21:37:45 on Dec 23,2023, Elapsed time: 0:06:42
+# Errors: 0, Warnings: 2
+# vsim -gui work.testfixture 
+# Start time: 21:37:45 on Dec 23,2023
+# Loading work.testfixture
+# Loading work.LBP
+# Loading work.lbp_mem
+add wave -position insertpoint sim:/testfixture/*
+add wave -position insertpoint sim:/testfixture/LBP/*
+run -all
+# -----------------------------------------------------
+# 
+# START!!! Simulation Start .....
+# 
+# -----------------------------------------------------
+# 
+# Output pixel           0 are wrong!
+# Output Pixel: 0 ~           0 are wrong ! The wrong pixel reached a total of           1 or more ! 
+# 
+# Output pixel           1 are wrong!
+# Output pixel           2 are wrong!
+# Output pixel           3 are wrong!
+# Output pixel           4 are wrong!
+# Output pixel           5 are wrong!
+# Output pixel           6 are wrong!
+# Output pixel           7 are wrong!
+# Output pixel           8 are wrong!
+# Output pixel          10 are wrong!
+# Find the wrong pixel reached a total of more than 10 !, Please check the code .....
+# 
+# Output Pixel: 0 ~        1000 are wrong ! The wrong pixel reached a total of        1000 or more ! 
+# 
+# Output Pixel: 0 ~        2000 are wrong ! The wrong pixel reached a total of        2000 or more ! 
+# 
+# Output Pixel: 0 ~        3000 are wrong ! The wrong pixel reached a total of        3000 or more ! 
+# 
+# Output Pixel: 0 ~        4000 are wrong ! The wrong pixel reached a total of        4000 or more ! 
+# 
+# Output Pixel: 0 ~        5000 are wrong ! The wrong pixel reached a total of        5000 or more ! 
+# 
+# Output Pixel: 0 ~        6000 are wrong ! The wrong pixel reached a total of        6000 or more ! 
+# 
+# Output Pixel: 0 ~        7000 are wrong ! The wrong pixel reached a total of        7000 or more ! 
+# 
+# Output Pixel: 0 ~        8000 are wrong ! The wrong pixel reached a total of        8000 or more ! 
+# 
+# Output Pixel: 0 ~        9000 are wrong ! The wrong pixel reached a total of        9000 or more ! 
+# 
+# Output Pixel: 0 ~       10000 are wrong ! The wrong pixel reached a total of       10000 or more ! 
+# 
+# Output Pixel: 0 ~       11000 are wrong ! The wrong pixel reached a total of       11000 or more ! 
+# 
+# Output Pixel: 0 ~       12000 are wrong ! The wrong pixel reached a total of       12000 or more ! 
+# 
+# Output Pixel: 0 ~       13000 are wrong ! The wrong pixel reached a total of       13000 or more ! 
+# 
+# Output Pixel: 0 ~       14000 are wrong ! The wrong pixel reached a total of       14000 or more ! 
+# 
+# Output Pixel: 0 ~       15000 are wrong ! The wrong pixel reached a total of       15000 or more ! 
+# 
+# Output Pixel: 0 ~       16000 are wrong ! The wrong pixel reached a total of       16000 or more ! 
+# 
+# Output Pixel: 0 ~       16383 are wrong ! The wrong pixel reached a total of       16383 or more ! 
+# 
+# -----------------------------------------------------
+# 
+# There are       16383 errors!
+# 
+# -----------------------------------------------------
+# 
+# ** Note: $finish    : C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v(128)
+#    Time: 2381475 ns  Iteration: 0  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v line 128
+# Compile of LBP.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture
+# End time: 21:40:42 on Dec 23,2023, Elapsed time: 0:02:57
+# Errors: 0, Warnings: 2
+# vsim -gui work.testfixture 
+# Start time: 21:40:42 on Dec 23,2023
+# Loading work.testfixture
+# Loading work.LBP
+# Loading work.lbp_mem
+add wave -position insertpoint sim:/testfixture/*
+add wave -position insertpoint sim:/testfixture/LBP/*
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# -----------------------------------------------------
+# 
+# START!!! Simulation Start .....
+# 
+# -----------------------------------------------------
+# 
+# Output pixel           0 are wrong!
+# Output Pixel: 0 ~           0 are wrong ! The wrong pixel reached a total of           1 or more ! 
+# 
+# Output pixel           1 are wrong!
+# Output pixel           2 are wrong!
+# Output pixel           3 are wrong!
+# Output pixel           4 are wrong!
+# Output pixel           5 are wrong!
+# Output pixel           6 are wrong!
+# Output pixel           7 are wrong!
+# Output pixel           8 are wrong!
+# Output pixel          10 are wrong!
+# Find the wrong pixel reached a total of more than 10 !, Please check the code .....
+# 
+# Output Pixel: 0 ~        1000 are wrong ! The wrong pixel reached a total of        1000 or more ! 
+# 
+# Output Pixel: 0 ~        2000 are wrong ! The wrong pixel reached a total of        2000 or more ! 
+# 
+# Output Pixel: 0 ~        3000 are wrong ! The wrong pixel reached a total of        3000 or more ! 
+# 
+# Output Pixel: 0 ~        4000 are wrong ! The wrong pixel reached a total of        4000 or more ! 
+# 
+# Output Pixel: 0 ~        5000 are wrong ! The wrong pixel reached a total of        5000 or more ! 
+# 
+# Output Pixel: 0 ~        6000 are wrong ! The wrong pixel reached a total of        6000 or more ! 
+# 
+# Output Pixel: 0 ~        7000 are wrong ! The wrong pixel reached a total of        7000 or more ! 
+# 
+# Output Pixel: 0 ~        8000 are wrong ! The wrong pixel reached a total of        8000 or more ! 
+# 
+# Output Pixel: 0 ~        9000 are wrong ! The wrong pixel reached a total of        9000 or more ! 
+# 
+# Output Pixel: 0 ~       10000 are wrong ! The wrong pixel reached a total of       10000 or more ! 
+# 
+# Output Pixel: 0 ~       11000 are wrong ! The wrong pixel reached a total of       11000 or more ! 
+# 
+# Output Pixel: 0 ~       12000 are wrong ! The wrong pixel reached a total of       12000 or more ! 
+# 
+# Output Pixel: 0 ~       13000 are wrong ! The wrong pixel reached a total of       13000 or more ! 
+# 
+# Output Pixel: 0 ~       14000 are wrong ! The wrong pixel reached a total of       14000 or more ! 
+# 
+# Output Pixel: 0 ~       15000 are wrong ! The wrong pixel reached a total of       15000 or more ! 
+# 
+# Output Pixel: 0 ~       16000 are wrong ! The wrong pixel reached a total of       16000 or more ! 
+# 
+# Output Pixel: 0 ~       16383 are wrong ! The wrong pixel reached a total of       16383 or more ! 
+# 
+# -----------------------------------------------------
+# 
+# There are       16383 errors!
+# 
+# -----------------------------------------------------
+# 
+# ** Note: $finish    : C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v(129)
+#    Time: 2381587500 ps  Iteration: 0  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/verilog/20231223_2016contest/B_ICC2016_preliminary_grad_cell-based/Exercise/testfixture.v line 129
+# End time: 21:41:45 on Dec 23,2023, Elapsed time: 0:01:03
+# Errors: 0, Warnings: 1

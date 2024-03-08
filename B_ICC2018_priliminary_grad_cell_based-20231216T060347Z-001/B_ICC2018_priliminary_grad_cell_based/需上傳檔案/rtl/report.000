@@ -1,0 +1,19 @@
+FTP 帳號 (FTP account ): unknown
+通過
+gate level simulation 之 cell area report 54000
+通過
+gate level simulation 之 clock cycle time (ns) 10
+---
+RTL category
+使用之
+HDL 模擬器名稱 (HDL simulator ): modeisim
+RTL
+檔案名稱 (RTL filename): huffman.v
+---
+Pre layout gate level
+gate
+level 檔案名稱 (gate_level filename): huffman_syn.v
+gate
+level sdf filename: huffman _syn.sdf
+design compiler
+合成資料庫 (dc library): huffman _syn.ddc

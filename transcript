@@ -1,0 +1,1298 @@
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 13:18:31 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/data_count
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 13:23:30 on Dec 17,2023, Elapsed time: 0:04:59
+# Errors: 0, Warnings: 6
+# vsim -gui work.tb 
+# Start time: 13:23:30 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/data_count
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 13:26:51 on Dec 17,2023, Elapsed time: 0:03:21
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 13:26:51 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 13:27:09 on Dec 17,2023, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 13:27:09 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/data_count
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+#  Trace back: invalid command name ".main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"
+#     while executing
+# "$widget index @$x,$y"
+#     (procedure "WaveABar::mouseMotionUpdate" line 19)
+#     invoked from within
+# "WaveABar::mouseMotionUpdate .main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data .main_pane.wave.interior.cs.body.pw.wf 197 184"
+#     ("after" script)
+#    <2:C:/intelFPGAnew/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {invalid command name ".main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"}
+#    <1:eval:1: ::tk::dialog::error::bgerror {invalid command name ".main_pane.wave.interior.cs.body.pw.wf.grid.row0,wave.data"}
+# End time: 13:30:20 on Dec 17,2023, Elapsed time: 0:03:11
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 13:30:20 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/data_count
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 13:31:25 on Dec 17,2023, Elapsed time: 0:01:05
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 13:31:25 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/data_count
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v failed with 8 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 8 errors.
+# Compile of huffman.v failed with 8 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 8 errors.
+# Compile of huffman.v failed with 8 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 8 errors.
+# Compile of huffman.v failed with 2 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of huffman.v failed with 8 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 8 errors.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 13:45:37 on Dec 17,2023, Elapsed time: 0:14:12
+# Errors: 0, Warnings: 7
+# vsim -gui work.tb 
+# Start time: 13:45:37 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/nextState
+add wave -position 21  sim:/tb/u_huffman/state
+add wave -position 22  sim:/tb/u_huffman/gray_data_
+add wave -position 23  sim:/tb/u_huffman/value_order
+add wave -position 24  sim:/tb/u_huffman/huffman_order
+add wave -position 25  sim:/tb/u_huffman/huffman_code
+add wave -position 26  sim:/tb/u_huffman/data_count
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v failed with 1 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 14:01:55 on Dec 17,2023, Elapsed time: 0:16:18
+# Errors: 0, Warnings: 3
+# vsim -gui work.tb 
+# Start time: 14:01:55 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/nextState
+add wave -position 21  sim:/tb/u_huffman/state
+add wave -position 22  sim:/tb/u_huffman/gray_data_
+add wave -position 23  sim:/tb/u_huffman/value_order
+add wave -position 24  sim:/tb/u_huffman/huffman_order
+add wave -position 25  sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v failed with 6 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 6 errors.
+# Compile of huffman.v failed with 2 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 19:05:34 on Dec 17,2023, Elapsed time: 5:03:39
+# Errors: 0, Warnings: 4
+# vsim -gui work.tb 
+# Start time: 19:05:34 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/data_count
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 19:16:11 on Dec 17,2023, Elapsed time: 0:10:37
+# Errors: 0, Warnings: 3
+# vsim -gui work.tb 
+# Start time: 19:16:11 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 19:21:48 on Dec 17,2023, Elapsed time: 0:05:37
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 19:21:48 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+restart
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 19:35:13 on Dec 17,2023, Elapsed time: 0:13:25
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 19:35:13 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/data_count
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 19:38:25 on Dec 17,2023, Elapsed time: 0:03:12
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 19:38:25 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 21  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 19:43:42 on Dec 17,2023, Elapsed time: 0:05:17
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 19:43:42 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 19:49:04 on Dec 17,2023, Elapsed time: 0:05:22
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 19:49:04 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position insertpoint  \
+sim:/tb/u_huffman/gray_data_ \
+sim:/tb/u_huffman/value_order \
+sim:/tb/u_huffman/huffman_order \
+sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 19:51:56 on Dec 17,2023, Elapsed time: 0:02:52
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 19:51:56 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 19:59:12 on Dec 17,2023, Elapsed time: 0:07:16
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 19:59:12 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:04:37 on Dec 17,2023, Elapsed time: 0:05:25
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:04:37 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position insertpoint  \
+sim:/tb/u_huffman/gray_data_ \
+sim:/tb/u_huffman/value_order \
+sim:/tb/u_huffman/huffman_order \
+sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+add wave -position 24  sim:/tb/u_huffman/Mi_
+restart
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:10:18 on Dec 17,2023, Elapsed time: 0:05:41
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:10:18 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:12:26 on Dec 17,2023, Elapsed time: 0:02:08
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:12:26 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:17:31 on Dec 17,2023, Elapsed time: 0:05:05
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:17:31 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:20:18 on Dec 17,2023, Elapsed time: 0:02:47
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:20:18 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position insertpoint  \
+sim:/tb/u_huffman/gray_data_ \
+sim:/tb/u_huffman/value_order \
+sim:/tb/u_huffman/huffman_order \
+sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:23:55 on Dec 17,2023, Elapsed time: 0:03:37
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:23:55 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 21  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:33:06 on Dec 17,2023, Elapsed time: 0:09:11
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:33:06 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:40:34 on Dec 17,2023, Elapsed time: 0:07:28
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:40:34 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:46:27 on Dec 17,2023, Elapsed time: 0:05:53
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:46:27 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 20:56:11 on Dec 17,2023, Elapsed time: 0:09:44
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 20:56:11 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 21:08:45 on Dec 17,2023, Elapsed time: 0:12:34
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 21:08:45 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 21:17:57 on Dec 17,2023, Elapsed time: 0:09:12
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 21:17:57 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 21  sim:/tb/u_huffman/gray_data_
+add wave -position 22  sim:/tb/u_huffman/value_order
+add wave -position 23  sim:/tb/u_huffman/huffman_order
+add wave -position 24  sim:/tb/u_huffman/huffman_code
+add wave -position 21  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 21:27:05 on Dec 17,2023, Elapsed time: 0:09:08
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 21:27:05 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 21:38:21 on Dec 17,2023, Elapsed time: 0:11:16
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 21:38:22 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 21:52:41 on Dec 17,2023, Elapsed time: 0:14:19
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 21:52:41 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Compile of huffman.v failed with 4 errors.
+# Compile of tb.v failed with 4 errors.
+# 2 compiles, 2 failed with 8 errors.
+# Compile of huffman.v failed with 1 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 23:18:16 on Dec 17,2023, Elapsed time: 1:25:35
+# Errors: 0, Warnings: 4
+# vsim -gui work.tb 
+# Start time: 23:18:16 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 23:29:50 on Dec 17,2023, Elapsed time: 0:11:34
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 23:29:50 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 23:35:16 on Dec 17,2023, Elapsed time: 0:05:26
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 23:35:16 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 21  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+add wave -position 24  sim:/tb/u_huffman/target0_array
+add wave -position 25  sim:/tb/u_huffman/target1_array
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 23:41:15 on Dec 17,2023, Elapsed time: 0:05:59
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 23:41:15 on Dec 17,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+add wave -position 54  sim:/tb/u_huffman/target0_array
+add wave -position 55  sim:/tb/u_huffman/target1_array
+restart
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+add wave -position 28  sim:/tb/u_huffman/Mi_
+restart
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 03:08:24 on Dec 18,2023, Elapsed time: 3:27:09
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 03:08:24 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 03:12:30 on Dec 18,2023, Elapsed time: 0:04:06
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 03:12:30 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v failed with 1 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 1 error.
+vsim -gui work.tb
+# End time: 03:17:45 on Dec 18,2023, Elapsed time: 0:05:15
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 03:17:45 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 03:19:23 on Dec 18,2023, Elapsed time: 0:01:38
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 03:19:23 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v failed with 1 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 03:29:09 on Dec 18,2023, Elapsed time: 0:09:46
+# Errors: 0, Warnings: 3
+# vsim -gui work.tb 
+# Start time: 03:29:09 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 03:35:07 on Dec 18,2023, Elapsed time: 0:05:58
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 03:35:07 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 03:37:57 on Dec 18,2023, Elapsed time: 0:02:50
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 03:37:57 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 03:55:14 on Dec 18,2023, Elapsed time: 0:17:17
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 03:55:14 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 03:56:53 on Dec 18,2023, Elapsed time: 0:01:39
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 03:56:53 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 03:59:01 on Dec 18,2023, Elapsed time: 0:02:08
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 03:59:01 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 04:03:58 on Dec 18,2023, Elapsed time: 0:04:57
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 04:03:58 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 21  sim:/tb/u_huffman/gray_data_
+add wave -position 22  sim:/tb/u_huffman/value_order
+add wave -position 23  sim:/tb/u_huffman/huffman_order
+add wave -position 24  sim:/tb/u_huffman/huffman_code
+add wave -position 21  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+add wave -position 32  sim:/tb/u_huffman/target0_array
+add wave -position 33  sim:/tb/u_huffman/target1_array
+restart
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 04:15:17 on Dec 18,2023, Elapsed time: 0:11:19
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 04:15:17 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/target0_array
+add wave -position 25  sim:/tb/u_huffman/target1_array
+add wave -position 26  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v failed with 6 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 6 errors.
+# Compile of huffman.v failed with 12 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 12 errors.
+# Compile of huffman.v failed with 12 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 12 errors.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 04:46:09 on Dec 18,2023, Elapsed time: 0:30:52
+# Errors: 0, Warnings: 5
+# vsim -gui work.tb 
+# Start time: 04:46:09 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/gray_data_
+add wave -position 21  sim:/tb/u_huffman/value_order
+add wave -position 22  sim:/tb/u_huffman/huffman_order
+add wave -position 23  sim:/tb/u_huffman/huffman_code
+add wave -position 24  sim:/tb/u_huffman/huffman_code_rev
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : ERROR
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(154)
+#    Time: 1780 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 154
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 04:49:40 on Dec 18,2023, Elapsed time: 0:03:31
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 04:49:40 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1780 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+restart
+add wave -position end sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/huffman_code
+add wave -position 20  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1780 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+# Compile of huffman.v failed with 2 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of huffman.v failed with 1 errors.
+# Compile of tb.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 05:04:14 on Dec 18,2023, Elapsed time: 0:14:34
+# Errors: 0, Warnings: 4
+# vsim -gui work.tb 
+# Start time: 05:04:14 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1780 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+restart
+add wave -position end sim:/tb/u_huffman/*
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1780 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+restart
+add wave -position 30  sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1780 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 05:07:09 on Dec 18,2023, Elapsed time: 0:02:55
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 05:07:09 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/u_huffman/*
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1780 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+add wave -position 37  sim:/tb/u_huffman/huffman_code
+restart
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1780 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 05:09:23 on Dec 18,2023, Elapsed time: 0:02:14
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 05:09:23 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/*
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 20  sim:/tb/u_huffman/Mi_
+add wave -position 20  sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 05:10:33 on Dec 18,2023, Elapsed time: 0:01:10
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 05:10:33 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/u_huffman/*
+add wave -position 0  sim:/tb/u_huffman/Mi_
+add wave -position 1  sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 05:11:48 on Dec 18,2023, Elapsed time: 0:01:15
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 05:11:48 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/u_huffman/*
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+restart
+add wave -position end sim:/tb/u_huffman/*
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 05:14:45 on Dec 18,2023, Elapsed time: 0:02:57
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 05:14:45 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/u_huffman/*
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1790 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+add wave -position 30  sim:/tb/u_huffman/Mi_
+add wave -position 31  sim:/tb/u_huffman/huffman_code
+restart
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1790 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 05:18:03 on Dec 18,2023, Elapsed time: 0:03:18
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 05:18:03 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/u_huffman/*
+add wave -position 4  sim:/tb/u_huffman/Mi_
+add wave -position 4  sim:/tb/u_huffman/huffman_code
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1790 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 05:20:28 on Dec 18,2023, Elapsed time: 0:02:25
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 05:20:28 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position end sim:/tb/u_huffman/*
+add wave -position 4  sim:/tb/u_huffman/huffman_code
+add wave -position 5  sim:/tb/u_huffman/Mi_
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1790 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+# Compile of huffman.v was successful with warnings.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# End time: 05:24:18 on Dec 18,2023, Elapsed time: 0:03:50
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb 
+# Start time: 05:24:18 on Dec 18,2023
+# Loading work.tb
+# Loading work.huffman
+add wave -position insertpoint sim:/tb/u_huffman/*
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1830 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+add wave -position 38  sim:/tb/u_huffman/Mi_
+add wave -position 40  sim:/tb/u_huffman/huffman_code
+restart
+run -all
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/verilog/2023_12_16_hoffman/B_ICC2018_priliminary_grad_cell_based-20231216T060347Z-001/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 1830 ns  Iteration: 1  Instance: /tb
+# End time: 05:24:49 on Dec 18,2023, Elapsed time: 0:00:31
+# Errors: 0, Warnings: 0
